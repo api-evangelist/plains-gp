@@ -1,7 +1,12 @@
 aid: plains-gp
-url: https://raw.githubusercontent.com/api-evangelist/plains-gp/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/plains-gp/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.plains-gp.com
+description: >-
+  Plains GP Holdings owns an interest in Plains All American Pipeline, a publicly
+  traded master limited partnership that owns and operates midstream energy infrastructure
+  in the United States and Canada.
