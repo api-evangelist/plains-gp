@@ -20,6 +20,8 @@ description: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/plains-gp-holdings
   - type: Website
     url: https://www.plains.com
   - type: Investor Relations
