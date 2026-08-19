@@ -28,7 +28,7 @@ description: >-
   energy infrastructure in the United States and Canada. No public developer
   API or developer portal has been published; this repository tracks corporate
   and investor resources.
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis: []
 common:
   - type: DomainSecurity
